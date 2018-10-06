@@ -29,3 +29,11 @@ background-color: #000000;
   color: white;
   font-size: 18px;
 }
+#specialB{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 18px;
+}
