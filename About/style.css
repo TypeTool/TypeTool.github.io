@@ -47,7 +47,7 @@ font-weight: 400;
 
 .grid-container{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 25px;
   margin-bottom: 140px;
   margin-left: 120px;
@@ -59,7 +59,7 @@ font-weight: 400;
 }
 .specialB{
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 4;
   margin-top: 10px;
   margin-bottom: 20px;
   color: white;
@@ -69,7 +69,7 @@ font-weight: 400;
   grid-column-start: 1;
   grid-column-end: 3;
   margin-top: 100px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   color: white;
   font-size: 34px;
 font-family: hellenic-wide-jf, serif;
