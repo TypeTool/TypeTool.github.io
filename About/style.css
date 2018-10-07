@@ -60,6 +60,13 @@ font-weight: 400;
 #displayimage {
   width: 100%;
   height: auto;
+  opacity: 0.3;
+  border: 3px black solid;
+}
+#displayimage:hover {
+  height: auto;
+  opacity: 1.0;
+  border: 3px white solid;
 }
 .specialB{
   grid-column-start: 1;
