@@ -80,3 +80,9 @@ font-family: hellenic-wide-jf, serif;
 font-style: normal;
 font-weight: 400;
 }
+#specialC{
+  width: 100%;
+  height: auto;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
