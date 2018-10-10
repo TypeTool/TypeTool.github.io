@@ -28,7 +28,7 @@ a:hover {
       background-color: black;
 }
 .headerabout {
-  font-size: 50px;
+  font-size: 43px;
   font-weight: bold;
   float: left;
   padding-left: 120px;
@@ -36,8 +36,15 @@ a:hover {
 font-style: normal;
 font-weight: 400;
 }
+.headeraboutC {
+  font-size: 43px;
+  font-weight: bold;
+  font-family: hellenic-wide-jf, serif;
+  font-style: normal;
+  font-weight: 400;
+}
 .headeraboutB {
-  font-size: 50px;
+  font-size: 43px;
   font-weight: bold;
   float: right;
   padding-right: 120px;
